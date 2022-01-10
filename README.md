@@ -1,4 +1,4 @@
-# robofriends-testing
+# robofriends-testing clone for circle ci
 
 To run the project: 
 
